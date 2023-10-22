@@ -1,0 +1,6 @@
+avocado roll,1.80
+salmon teMaki,4.50
+Miso Soup,1.550000
+California Roll,2.150000
+Ramen,4.500000
+Otopus sashimi,4.000000
